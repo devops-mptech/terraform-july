@@ -1,9 +1,10 @@
 provider "aws" {
   region = "us-west-2"
 }
+<<<<<<< HEAD
 
 
-#####
 =======
+>>>>>>> cbb92cd8dab19c63ffd5c53f25cd72d6e7e0d6c7
+#####
 ###
->>>>>>> 53c9c9f934df534fd682476c4bc8ca07bee34fdf
