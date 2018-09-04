@@ -6,6 +6,7 @@ resource "aws_vpc" "myvpc" {
     Env  = "Dev"
   }
 }
+#
 # resource "aws_subnet" "subnet1" {
 #   vpc_id     = "${aws_vpc.myvpc.id}"
 #   cidr_block = "${var.subnet_cidr[0]}"
