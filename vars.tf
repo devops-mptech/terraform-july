@@ -4,7 +4,7 @@ variable "vpc_cidr" {
 # variable "subnet_cidr1" {
 #   default = "156.172.1.0/24"
 # }
-#
+#s
 # variable "subnet_cidr2" {
 #   default = "156.172.2.0/24"
 # }
